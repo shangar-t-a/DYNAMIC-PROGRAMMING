@@ -1,3 +1,6 @@
+//Uses Dynamic Programming
+//Uses a 2D array to store the values (Bottom Up approach) => a[i][j]
+//The Result i.e maximum combination will be in last position of the array
 #include <stdio.h>
 
 int main(void) 
