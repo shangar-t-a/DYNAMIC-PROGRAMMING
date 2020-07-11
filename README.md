@@ -1,6 +1,6 @@
 # DYNAMIC-PROGRAMMING
 Problems on Dynamic programming
 
-1 --> Fibonacci using dynamic programming
-      --> top down (memoization)
-      --> bottom up (array) 
+1 --> Fibonacci using dynamic programming<br/>  top down (memoization)<br/>  bottom up (array)<br/> 
+
+2 --> Max Combinations using dynamic programming
